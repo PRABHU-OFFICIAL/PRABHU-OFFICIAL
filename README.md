@@ -34,4 +34,6 @@
 [instagram]: https://www.instagram.com/i_am_freak_treat/
 [linkedin]: https://www.linkedin.com/in/prabhu-prasad-73b870189/
 
+<image src = "https://camo.githubusercontent.com/943395c670908eb6067428c50910566c6090d18501e06b796fa459c95ca8cfc8/68747470733a2f2f6769746875622d70726f66696c652d74726f7068792e76657263656c2e6170702f3f757365726e616d653d73616d62697472616a267468656d653d64726163756c61">
+
 <image src = "https://github-readme-stats.vercel.app/api?username=PRABHU-OFFICIAL&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
