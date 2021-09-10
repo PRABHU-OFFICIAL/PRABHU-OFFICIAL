@@ -16,7 +16,7 @@
 
 <br />
 
-### Languages and Tools:
+### LANGUAGES AND TOOLS:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
@@ -33,6 +33,8 @@
 [youtube]: https://www.youtube.com/channel/UCTO_I6FlIhfU7aN2uZRcfXg
 [instagram]: https://www.instagram.com/i_am_freak_treat/
 [linkedin]: https://www.linkedin.com/in/prabhu-prasad-73b870189/
+
+###                                                                       ACHIEVEMENTS
 
 <image src = "https://camo.githubusercontent.com/943395c670908eb6067428c50910566c6090d18501e06b796fa459c95ca8cfc8/68747470733a2f2f6769746875622d70726f66696c652d74726f7068792e76657263656c2e6170702f3f757365726e616d653d73616d62697472616a267468656d653d64726163756c61">
 
