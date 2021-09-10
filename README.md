@@ -30,7 +30,7 @@
 <br />
 <br />
 
-[Access_Playlist]: https://www.youtube.com/playlist?list=PLLssT5z_DsK-h9vYZkQkYNWcItqhlRJLN/
+[Access_Playlist]: https://www.youtube.com/playlist?list=PLLssT5z_DsK-h9vYZkQkYNWcItqhlRJLN
 [youtube]: https://www.youtube.com/channel/UCTO_I6FlIhfU7aN2uZRcfXg/
 [instagram]: https://www.instagram.com/i_am_freak_treat/
 [linkedin]: https://www.linkedin.com/in/prabhu-prasad-73b870189/
