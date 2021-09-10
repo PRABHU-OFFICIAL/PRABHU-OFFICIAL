@@ -34,7 +34,7 @@
 [youtube]: https://www.youtube.com/channel/UCTO_I6FlIhfU7aN2uZRcfXg/
 [instagram]: https://www.instagram.com/i_am_freak_treat/
 [linkedin]: https://www.linkedin.com/in/prabhu-prasad-73b870189/
-[MyWeb]: https://manage.wix.com/account/sites/
+[MyWeb]: https://lituplayer.wixsite.com/website-1/
 
 ### ACHIEVEMENTS:-
 
