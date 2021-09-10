@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning everything 🤣
 - 🔭 I'm currently learning Machine Learning: [By Andrew Ng][Access_Playlist]!
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: Contribute more to Open Source projects
+- 🥅 Future Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to play football and learn different Algorithms
 
 ### Connect with me:
