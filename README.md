@@ -1,4 +1,4 @@
-### Hi there, I'm PRABHU - aka [JAVA PROGRAMMER][ML LEARNER] 👋
+### Hola Amigo, Myself PRABHU - aka [JAVA PROGRAMMER][ML LEARNER] 👋
 
 ## I'm a Student, Coder, Learner!!
 
@@ -9,7 +9,7 @@
 - ⚡ Fun fact: I love to play football and learn different Algorithms
 - 🌐 My website for my Projects and Builds: [MyWeb]
 
-========================================================================================
+---
 
 ### CONNECT WITH ME:-
 
@@ -19,19 +19,16 @@
 
 <br />
 
-
-========================================================================================
-
+---
 
 <p>
   <img width="250" align='left' src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/hacktoberfest.png?raw=true">
 </p>
  
-### BOY SCOUT RULE
+### Boy Scout Rule
 
 I love open source.  I am not a heavy maintainer of any large libraries, but I really like the boyscout rule.  I contribute to things as I come across issues that I think other people might struggle with.  This may be things that are overlooked by someone who is deep into the library.  I 💕 a good onboarding readme with good example.
-
-========================================================================================
+---
 
 ### LANGUAGES AND TOOLS:-
 
@@ -52,12 +49,12 @@ I love open source.  I am not a heavy maintainer of any large libraries, but I r
 [linkedin]: https://www.linkedin.com/in/prabhu-prasad-73b870189/
 [MyWeb]: https://lituplayer.wixsite.com/website-1/
 
-========================================================================================
+---
 
 ### ACHIEVEMENTS:-
 
 <image src = "https://camo.githubusercontent.com/943395c670908eb6067428c50910566c6090d18501e06b796fa459c95ca8cfc8/68747470733a2f2f6769746875622d70726f66696c652d74726f7068792e76657263656c2e6170702f3f757365726e616d653d73616d62697472616a267468656d653d64726163756c61">
   
-========================================================================================
+---
 
 <image src = "https://github-readme-stats.vercel.app/api?username=PRABHU-OFFICIAL&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
