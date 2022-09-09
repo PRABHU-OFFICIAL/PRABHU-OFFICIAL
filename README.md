@@ -4,7 +4,7 @@
 </p>
 
 <h3 align="center">
-Hi there, I'm <a href="" target="_blank" rel="noreferrer">LITU</a> 👋
+Hi there, I'm <a href="https://prabhu-official.github.io/myportfoliowebsite/" target="_blank" rel="noreferrer">LITU</a> 👋
 </h3>
 
 <h2 align="center">
