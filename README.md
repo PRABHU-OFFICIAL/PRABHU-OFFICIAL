@@ -5,6 +5,7 @@
 
 <h3 align="center">
 Hi there, I'm <a href="https://prabhu-official.github.io/myportfoliowebsite/" target="_blank" rel="noreferrer">LITU</a> 👋
+<a href="https://prabhu-official.github.io/myportfoliowebsite/" target="_blank" rel="noreferrer">Check my 3D Portfolio</a> 👋
 </h3>
 
 <h2 align="center">
