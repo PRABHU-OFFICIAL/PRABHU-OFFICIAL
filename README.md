@@ -81,6 +81,4 @@ I love the entire process of developing creative Apps. I love the challenge of f
 
 <h2 align = "center">I love open source. I am not a heavy maintainer of any large libraries, but I really like the boyscout rule. I contribute to things as I come across issues that I think other people might struggle with. I 💕 a good onboarding readme with good example.</h2>
 
-<div align="center">
-      <img src="https://visitor-badge.glitch.me/badge?page_id=yushi1007.yushi1007" alt="My Profile Views"/>
-</div>
+![](https://komarev.com/ghpvc/?username=your-github-username&label=PROFILE+VIEWS)
