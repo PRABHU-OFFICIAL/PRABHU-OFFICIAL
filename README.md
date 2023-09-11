@@ -77,10 +77,6 @@ I love the entire process of developing creative Apps. I love the challenge of f
 
 <p align="center"><image src = "https://camo.githubusercontent.com/943395c670908eb6067428c50910566c6090d18501e06b796fa459c95ca8cfc8/68747470733a2f2f6769746875622d70726f66696c652d74726f7068792e76657263656c2e6170702f3f757365726e616d653d73616d62697472616a267468656d653d64726163756c61"></p>
 
-<h3 align="center">GITHUB STATS</h3> 
-
-<p align="center"><image src = "https://github-readme-stats.vercel.app/api?username=PRABHU-OFFICIAL&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515"></p>
-
 <h2 align = "center">MY RULE { But I don't Follw It🤪}</h2>
 
 <h2 align = "center">I love open source. I am not a heavy maintainer of any large libraries, but I really like the boyscout rule. I contribute to things as I come across issues that I think other people might struggle with. I 💕 a good onboarding readme with good example.</h2>
